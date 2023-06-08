@@ -1,4 +1,3 @@
-import { type } from "@testing-library/user-event/dist/type";
 import { Pokemon } from "../models/pockemon.m";
 
 export async function  getPokemons(): Promise<Pokemon[]>{
