@@ -6,3 +6,5 @@ Pagina web https://react-bootstrap.github.io/
 
 pellicerfast@gmail.com
 Fast19462407
+
+Para compilar npm run build
